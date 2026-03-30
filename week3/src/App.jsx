@@ -1,8 +1,8 @@
 import Image from './Image';
-import spongebob from './images/spongebob.png';
-import patrick from './images/patrick.png';
-import squidward from './images/squidward.png';
-import mrkrabs from './images/mrkrabs.png';
+import spongebob from './images/spongebob.webp';
+import patrick from './images/patrick.webp';
+import squidward from './images/squidward.webp';
+import mrkrabs from './images/mrkrabs.webp';
 
 function App() {
   return (
