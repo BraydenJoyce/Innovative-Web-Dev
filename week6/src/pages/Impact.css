@@ -1,0 +1,22 @@
+h1 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 20px 0 8px;
+}
+
+p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.page-img {
+  width: 280px;
+  height: 200px;
+  object-fit: cover;
+  background-color: #ddd;
+  display: block;
+  margin: 16px 0;
+  border: 1px solid #aaa;
+}

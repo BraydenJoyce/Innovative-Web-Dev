@@ -1,0 +1,40 @@
+h1 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 20px 0 10px;
+}
+
+.page-img {
+  width: 280px;
+  height: 200px;
+  object-fit: cover;
+  background-color: #ddd;
+  display: block;
+  margin: 16px 0;
+  border: 1px solid #aaa;
+}
+
+.milestone-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.milestone-table th,
+.milestone-table td {
+  border: 1px solid #aaa;
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.milestone-table th {
+  background-color: #222;
+  color: white;
+}
+
+.milestone-table tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
