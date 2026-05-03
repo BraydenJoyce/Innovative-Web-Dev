@@ -40,7 +40,7 @@ const Impact: React.FC = () => {
       <h2>The Digital Age</h2>
       <p>
         Telephone lines became the backbone of the early internet through dial-up modems.
-        Today, the smartphone — a telephone at its core — is the primary computing device
+        Today, the smartphone, a telephone at its core, is the primary computing device
         for billions of people worldwide.
       </p>
     </div>
